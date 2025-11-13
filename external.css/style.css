@@ -1,0 +1,47 @@
+body{
+    font-family:Arial, sans-serif;
+    margin:20px
+}
+
+/* Block example */
+.block-menu a {
+    display: block;
+    background-color: rgb(94, 94, 194);
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    text-decoration: none;
+}
+/* Inline example */
+.inline-menu a {
+    display: inline;
+    background-color: yellow;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+}
+/* Inline-block elements */
+.inline-block-menu a {
+    display: inline-block;
+    background-color:aqua;
+    color:white;
+    height: 50px;
+    width: 120px;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+}
+/* Float example */
+.float-menu a {
+    float: left;
+    background-color: red;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    text-decoration: none;
+}
+
+
+
+
